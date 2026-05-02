@@ -49,6 +49,8 @@ FRED_API_KEY=your_fred_api_key_here
 - Download 'dataset.csv'
 - Save it as '~/Desktop/kaggle_spotify.csv'
 
+Alternativaly it is already saved as 'KaggleSpotifyAudioFeatures.csv' under data/raw/ in the github repository, which you could use the raw link to access. 
+
 ### Run the notebooks in order:
 1. Billboard 100 1975-2025
 2. kaggle matching (valence and bpm).ipynb
